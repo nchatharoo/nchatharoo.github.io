@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Nadheer
+Bonjour, I'm Nadheer
+
 iOS Developer based in Saint-Denis, France.
 
 ### More Information
 
 Interests: Video games 🎮, Football ⚽, Movies 📺 and Tech enthusiast 👨‍💻.
+
 Husband and father of two.
 
 ### Contact me
