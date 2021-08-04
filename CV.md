@@ -4,11 +4,11 @@ title: Curriculum vitae
 permalink: /cv/
 ---
 
-## Expériences
+## <u>Expériences</u>
 
 ### **iOS developper** - APPSCHO
 
-Janvier 2016 à aujourd'hui
+*Janvier 2016 à aujourd'hui*
 
 **MISSIONS**
 
@@ -29,9 +29,11 @@ Janvier 2016 à aujourd'hui
 - CI : GitLab / FastLane / Travis
 - Lint : SwiftLint
 
+
+
 ### **iOS developper** - SMART&SOFT
 
-Novembre 2015 à Décembre 2015
+*Novembre 2015 à Décembre 2015*
 
 **MISSIONS**
 
@@ -50,7 +52,7 @@ Novembre 2015 à Décembre 2015
 
 ### **iOS developer** - MATCHBOX
 
-Février 2012 à Septembre 2015
+*Février 2012 à Septembre 2015*
 
 **MISSIONS**
 
@@ -67,19 +69,19 @@ Février 2012 à Septembre 2015
 
 ### **Graphic Designer - Integrator** - OCP RÉPARTITION
 
-Janvier 2012 à Janvier 2012
+*Janvier 2012 à Janvier 2012*
 
 
 
 ### **Graphist Webdesigner** - WESTWING HOME AND LIVING
 
-Septembre 2011 à Décembre 2011
+*Septembre 2011 à Décembre 2011*
 
 
 
 ### **Webmaster Webdesigner** - RUEDUCOMMERCE
 
-Août 2010 à Août 2011
+*Août 2010 à Août 2011*
 
 
 
@@ -91,17 +93,17 @@ Septembre 2009 à Juillet 2010
 
 ### **Webmaster Assistant** - TOLUNA INC
 
-Septembre 2008 à Août 2009
+*Septembre 2008 à Août 2009*
 
 
 
 ### **Internship -Webdesigner** - ASSOCIATION COMMUNIC'ART
 
-Juillet 2008 à Août 2008
+*Juillet 2008 à Août 2008*
 
 ***
 
-## Diplômes
+## <u>Diplômes</u>
 
 ### **Formation web Designer / Developpeur** - Institut BGS
 
@@ -117,7 +119,7 @@ Juillet 2008 à Août 2008
 
 ***
 
-## Langues
+## <u>Langues</u>
 
 **Anglais** Compétence professionnelle
 
@@ -125,6 +127,6 @@ Juillet 2008 à Août 2008
 
 ***
 
-## À propos
+## <u>À propos</u>
 
 Je souhaite trouver un environnement convivial et avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage, ainsi que continuer à acquérir de nouvelles compétences et se tenir au courant des dernières nouveautés sur Apple.
