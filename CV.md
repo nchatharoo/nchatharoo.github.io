@@ -6,8 +6,7 @@ permalink: /cv/
 
 ## À propos
 
-Trouvez un environnement convivial et favorable avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage. 
-Continuez à acquérir de nouvelles compétences et à se tenir au courant des dernières nouveautés sur Apple.
+Je souhaite trouver un environnement convivial et favorable avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage, ainsi que continuer à acquérir de nouvelles compétences et se tenir au courant des dernières nouveautés sur Apple.
 
 ***
 
