@@ -4,12 +4,6 @@ title:
 permalink: /cv/
 ---
 
-## À propos
-
-Je souhaite trouver un environnement convivial et favorable avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage, ainsi que continuer à acquérir de nouvelles compétences et se tenir au courant des dernières nouveautés sur Apple.
-
-***
-
 ## Expériences
 
 ### **iOS developper** - APPSCHO
@@ -129,4 +123,8 @@ Juillet 2008 à Août 2008
 
 **Français** Langue natale
 
+***
 
+## À propos
+
+Je souhaite trouver un environnement convivial et avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage, ainsi que continuer à acquérir de nouvelles compétences et se tenir au courant des dernières nouveautés sur Apple.
