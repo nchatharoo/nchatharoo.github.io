@@ -1,13 +1,9 @@
-## Grand Central Dispatch : handle Concurrency in iOS
+## Part 1 : Grand Central Dispatch (GCD)
 
 When starting developing, did you think of performance and/or responsiveness for your app ?
 It's not easy, because there is a lot of way to improve your app. One of it is *Concurrency*.
 
 Concurrency on iOS is a large topic, so we gonna focus on Grand Central Dispatch (GCD).
-
-Today we will see the different queues provided by Apple.
-
-### Grand Central Dispatch (GCD) :
 
 GCD is Apple’s implementation of C’s **libdispatch** library, it allow us to write multi-threaded code without manually creating the threads themselves. We do not need to worry about managing them, because
 GCD's tasks (either a method or a closure) are placed into GCD-managed **first-in, first-out** (FIFO) queues fully handled by the system.
