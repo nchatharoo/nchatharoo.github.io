@@ -1,6 +1,5 @@
 ---
 layout: page
-title: CV
 permalink: /cv/
 ---
 
@@ -38,7 +37,7 @@ Janvier 2016 à aujourd'hui
 
 ### **iOS developper** - SMART&SOFT
 
-Novembre 2015 à Décembre 2015 | 1 mois
+Novembre 2015 à Décembre 2015
 
 **MISSIONS**
 
@@ -57,7 +56,7 @@ Novembre 2015 à Décembre 2015 | 1 mois
 
 ### **iOS developer** - MATCHBOX
 
-Février 2012 à Septembre 2015 | 3 ans et 7 mois
+Février 2012 à Septembre 2015
 
 **MISSIONS**
 
@@ -74,37 +73,37 @@ Février 2012 à Septembre 2015 | 3 ans et 7 mois
 
 ### **Graphic Designer - Integrator** - OCP RÉPARTITION
 
-Janvier 2012 à Janvier 2012 | 1 mois
+Janvier 2012 à Janvier 2012
 
 
 
 ### **Graphist Webdesigner** - WESTWING HOME AND LIVING
 
-Septembre 2011 à Décembre 2011 | 2 mois
+Septembre 2011 à Décembre 2011
 
 
 
 ### **Webmaster Webdesigner** - RUEDUCOMMERCE
 
-Août 2010 à Août 2011 | 1 an
+Août 2010 à Août 2011
 
 
 
 ### **Webmaster Assistant** - ROCHE BOBOIS
 
-Septembre 2009 à Juillet 2010 | 10 mois
+Septembre 2009 à Juillet 2010
 
 
 
 ### **Webmaster Assistant** - TOLUNA INC
 
-Septembre 2008 à Août 2009 | 11 mois
+Septembre 2008 à Août 2009
 
 
 
 ### **Internship -Webdesigner** - ASSOCIATION COMMUNIC'ART
 
-Juillet 2008 à Août 2008 | 1 mois
+Juillet 2008 à Août 2008
 
 ***
 
@@ -127,9 +126,7 @@ Juillet 2008 à Août 2008 | 1 mois
 ## Langues
 
 **Anglais** Compétence professionnelle
+
 **Français** Langue natale
-
-***
-
 
 
