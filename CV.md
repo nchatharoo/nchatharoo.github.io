@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
 ## À propos
 
 Trouvez un environnement convivial et favorable avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage. 
