@@ -1,4 +1,4 @@
-## Part 1 : Sync vs ASync, Serial vs Concurrent, Main Queues vs Global Queues
+## Part 1 : Sync vs Async, Serial vs Concurrent, Main Queues vs Global Queues
 
 Concurrency on iOS is a large topic, today let's focus on Grand Central Dispatch (GCD).
 
