@@ -3,7 +3,7 @@
 When starting developing, did you think of performance and/or responsiveness for your app ?
 It's not easy, because there is a lot of way to improve your app. One of it is *Concurrency*.
 
-Concurrency on iOS is a large topic, so we gonna focus on Grand Central Dispatch (GCD).
+Concurrency on iOS is a large topic, today let's focus on Grand Central Dispatch (GCD).
 
 GCD is Apple’s implementation of C’s **libdispatch** library, it allow us to write multi-threaded code without manually creating the threads themselves. We do not need to worry about managing them, because
 GCD's tasks (either a method or a closure) are placed into GCD-managed **first-in, first-out** (FIFO) queues fully handled by the system.
@@ -15,7 +15,10 @@ Tasks can run synchronously or asynchronously :
 - Synchronous tasks : the app will wait and block the current run loop until execution finishes.
 - Asynchronous tasks : will start and return execution the app immediately.
 
-When we need to perform long task (like networking call or computationally expensive work), we create a queue, attach a task to it to run asynchronously on a background thread and when complete, delegate the code back to the main thread.
+When we need to perform long task (like networking call or computationally expensive work), we :
+-create a queue
+-attach a task to it to run asynchronously on a background thread 
+-delegate the code back to the main thread, when the task is completed.
 
 For example :
 
@@ -62,7 +65,7 @@ DispatchQueue.main.async { // Asynchronous Main Queue call
 }
 ```
 
- The code inside the block won't block the UI, since its executed in a Background thread.
+ The code inside the `{ }` won't block the UI, since its executed in a Background thread.
 
 Be aware calling *DispatchQueue.main.sync* can lead to **deadlock** (Main Queue waiting for itself), that's because the calling queue will wait until the work we dispatch in the block is finished.
 
@@ -118,7 +121,7 @@ Finally, we can create our own private( or custom) queue. By default, private qu
 Here is how we can create it : 
 
 ```swift
-let concurrent = DispatchQueue(label: "com.nchatharoo.concurent-queue", qos: .userInitiated, attributes: .concurrent)
+let concurrent = DispatchQueue(label: "com.nchatharoo.concurrent-queue", qos: .userInitiated, attributes: .concurrent)
 concurrent.sync {
     print("Private concurrent queue")
 }
