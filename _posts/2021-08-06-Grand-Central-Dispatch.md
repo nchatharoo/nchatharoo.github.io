@@ -69,10 +69,7 @@ class ViewController: UIViewController {
         firstTask.resume()
         secondTask.resume()
     }
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-    	} 
-    }
+}
 ```
 
 See how we use the `enter` and `leave`, if we forgot to leave after entering, the app will hang forever !
@@ -81,5 +78,26 @@ See how we use the `enter` and `leave`, if we forgot to leave after entering, th
 
 ### DispatchSemaphore
 
+Ok, we can work with multiple tasks, but imagine that we need to prevent tasks to access the same shared resource, like a read/write a file ? Or limit how many downloads can happen at once ? Using DispatchSemaphore can help us with that.
 
+For example : 
+
+```swift
+
+func twoTasksAtSameTime() {
+    print("starting long running tasks (2 at a time)")
+    
+    let sem = DispatchSemaphore(value: 2) // this semaphore only allows 2 tasks to run at the same time (the resource count)
+    for _ in 0...7 { // launch a bunch of tasks
+        DispatchQueue.global().async { // run tasks on a background thread
+            sem.wait() // wait here if no resources available
+          	defer { sem.signal() } // let the semaphore know this resource is now available
+            sleep(2) // simulate long task
+            print("starting long running tasks (2 at a time)")
+        }
+    }
+}
+```
+
+Here, the app will loop in our `for` statement 7 times, and during the loop, will wait 2 seconds before running again.
 
