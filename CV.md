@@ -4,6 +4,12 @@ title: Curriculum vitae
 permalink: /cv/
 ---
 
+## <u>À propos</u>
+
+Je souhaite trouver un environnement convivial et avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage, ainsi que continuer à acquérir de nouvelles compétences et se tenir au courant des dernières nouveautés sur Apple. Rigoureux, consciencieux, méticuleux, créatifs et organisé sont des adjectifs qui me qualifient et mes excellentes relations humaines me permettent de m'intégrer facilement dans une équipe.
+
+---
+
 ## <u>Expériences</u>
 
 ### **iOS developper** - APPSCHO
@@ -124,9 +130,3 @@ Septembre 2009 à Juillet 2010
 **Anglais** Compétence professionnelle
 
 **Français** Langue natale
-
-***
-
-## <u>À propos</u>
-
-Je souhaite trouver un environnement convivial et avec une culture de haute performance qui offre de nombreuses possibilités d'apprentissage, ainsi que continuer à acquérir de nouvelles compétences et se tenir au courant des dernières nouveautés sur Apple.
