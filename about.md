@@ -6,11 +6,13 @@ permalink: /about/
 
 Bonjour, I'm Nadheer
 
-iOS Developer based in Saint-Denis, France.
+iOS Developer since 2012, based in Saint-Denis, France.
+
+As a self-taught developer, this site was created as a place for me to share my learnings, thoughts, and ideas about iOS, Swift, and software design in general.
 
 ### More Information
 
-Interests: Video games 🎮, Football ⚽, Movies 📺 and Tech enthusiast 👨‍💻.
+Interests: Video games 🎮, Football ⚽, Movies 📺, Manga/Comics 🦸 and Tech enthusiast 👨‍💻.
 
 Husband and father of two.
 
