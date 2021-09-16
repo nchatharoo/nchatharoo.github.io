@@ -14,26 +14,28 @@ Je souhaite trouver un environnement convivial et avec une culture de haute perf
 
 ### **iOS developper** - APPSCHO
 
-*Janvier 2016 à aujourd'hui*
+*Depuis Janvier 2016*
 
 **MISSIONS**
 
 - Développer les nouvelles features des applications mobiles natives iOS en collaboration avec l’équipe Produit, les chefs de projets
-
 - Implémenter les tests unitaires et tests UI relatifs à ces features
 - Amélioration continue des outils de CI/CD
 - Effectuer une veille technologique
+- Code Review
+- Faire les soumissions sur l'AppStore / TestFlight
 
 **ENVIRONNEMENT TECHNIQUE**
 
 - iOS & Xcode
 - Swift 5
 - Carthage / Cocoapods
-- Unit Testing
+- Unit Testing - XCTest
 - UI Test automation – XCUITests
-- HTTPS (JSON REST APIs): AlamoFire
-- CI : GitLab / FastLane / Travis
-- Lint : SwiftLint
+- HTTPS (JSON REST APIs): Alamofire
+- CI : GitLab / FastLane / Travis / Github Actions
+- Linter : SwiftLint
+- Architecture : MVVM / MVC
 
 
 
@@ -44,8 +46,8 @@ Je souhaite trouver un environnement convivial et avec une culture de haute perf
 **MISSIONS**
 
 - Maintenir les applications mobiles natives iOS en collaboration avec l’équipe Produit, les chefs de projets et les graphistes
-
 - Effectuer une veille technologique
+- Code Review
 
 **ENVIRONNEMENT TECHNIQUE**
 
@@ -63,8 +65,8 @@ Je souhaite trouver un environnement convivial et avec une culture de haute perf
 **MISSIONS**
 
 - Développer les nouvelles applications mobiles natives iOS en collaboration avec l’équipe Produit, les chefs de projets et les graphistes
-
 - Effectuer une veille technologique
+- Faire les soumissions sur l'AppStore
 
 **ENVIRONNEMENT TECHNIQUE**
 
